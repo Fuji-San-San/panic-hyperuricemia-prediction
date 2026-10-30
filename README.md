@@ -63,7 +63,7 @@ Patient-level data are not included in this repository. An anonymized dataset wi
 
 ## Archived version
 
-All archived versions are available on Zenodo (concept DOI: 10.5281/zenodo.XXXXXXX, which resolves to the latest version). Version v1.0.0 (DOI: 10.5281/zenodo.20278296) corresponds to the original submission.
+All archived versions are available on Zenodo (concept DOI: 10.5281/zenodo.23793163, which resolves to the latest version). Version v1.0.0 (DOI: 10.5281/zenodo.20278296) corresponds to the original submission.
 
 ## License
 
