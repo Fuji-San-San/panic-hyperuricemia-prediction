@@ -6,7 +6,7 @@ Python code for the analyses reported in:
 
 The study developed prediction models for 72-hour fatality in adult patients with panic-level hyperuricemia (serum uric acid ≥10 mg/dL) using routine laboratory data. The development cohort comprised patients assessed in 2019 (n = 756; 48 fatal events), and the external validation cohort comprised patients assessed in the non-overlapping preceding period of 2017–2018 (n = 1,243; 54 fatal events). Ten models were compared: multivariable logistic regression analysis (MLRA), eight gradient boosting algorithms, and Prediction One.
 
-**Version:** v2.0.0 (R1 revision). This version contains the code used for the revised manuscript. Figure and table numbers below follow the revised manuscript.
+**Version:** v3.0.1 (R1 revision). This version contains the code used for the revised manuscript. Figure and table numbers below follow the revised manuscript.
 
 ## Notebooks
 
